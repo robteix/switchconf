@@ -1,0 +1,4 @@
+/etc/resolv.conf:
+  comment: #
+/etc/my-other-file.conf:
+  comment: ;;
