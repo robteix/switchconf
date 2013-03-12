@@ -72,6 +72,10 @@ Similarly, running `switchconf work` will result in
     gpgcheck=1
     ...
 
+Installation
+============
+
+    go get github.com/robteix/switchconf
 
 License
 =======
