@@ -1,9 +1,12 @@
-== switchconf ==
+switchconf
+==========
+
 switchconf is a simple utility to comment/uncomment regions of files.
 Specifically it was created to change configuration files according to my
 location.
 
-== Example ==
+Example
+=======
 
 For example, say you have an internal yum repository in your job and you
 want to use that when you're in the office, but not when at home. You
@@ -70,3 +73,7 @@ Similarly, running `switchconf work` will result in
     ...
 
 
+License
+=======
+
+Switchconf is licensed under the GPLv3.
